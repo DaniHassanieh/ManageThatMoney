@@ -1,2 +1,2 @@
 # ManageThatMoney
-An application for managing that money! Written in Java.
+An application for managing that money!
